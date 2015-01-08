@@ -7,6 +7,6 @@ public class Connection {
     private int Travelstop[] = new int[5];
     private boolean Occupiet;
 
-
+blabla...donnerstag;
 
 }
